@@ -1,0 +1,3 @@
+data/
+street-photos/*
+!street-photos/.gitkeep
